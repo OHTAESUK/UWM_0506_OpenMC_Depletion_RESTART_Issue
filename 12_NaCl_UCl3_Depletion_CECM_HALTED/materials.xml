@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<materials>
+  <material id="6" name="NaCl_UCl3" depletable="true" volume="1.0" temperature="923.15">
+    <density value="3.3163" units="g/cm3"/>
+    <nuclide name="Na23" ao="25.18796992481203"/>
+    <nuclide name="Cl35" ao="0.6240601503759399"/>
+    <nuclide name="Cl37" ao="61.78195488721804"/>
+    <nuclide name="U235" ao="2.4752786486966025"/>
+    <nuclide name="U238" ao="9.930736388897381"/>
+  </material>
+</materials>
