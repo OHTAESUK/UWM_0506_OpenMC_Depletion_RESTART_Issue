@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<geometry>
+  <cell id="6" name="fuel_cube" material="6" region="31 -32 33 -34 35 -36" universe="6"/>
+  <surface id="31" type="x-plane" boundary="reflective" coeffs="0.0"/>
+  <surface id="32" type="x-plane" boundary="reflective" coeffs="1.0"/>
+  <surface id="33" type="y-plane" boundary="reflective" coeffs="0.0"/>
+  <surface id="34" type="y-plane" boundary="reflective" coeffs="1.0"/>
+  <surface id="35" type="z-plane" boundary="reflective" coeffs="0.0"/>
+  <surface id="36" type="z-plane" boundary="reflective" coeffs="1.0"/>
+</geometry>
